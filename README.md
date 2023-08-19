@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on React projects
+- 📫 How to reach me: brunogokmen@gmail.com
+- ⚡ Fun fact: Pandemic changed my life drastically
+
+ <img align="right" alt="Coding" width="400" src="add your link 
+  here">
+
+  
