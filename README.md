@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: brunogokmen@gmail.com
 - ⚡ Fun fact: Pandemic changed my life drastically
 
- <img align="right" alt="Coding" width="400" src="add your link 
-  here">
+
 
   
