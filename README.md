@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning JS, Html, Css and React
+- 🔭 I'm on my way to become a Full Stack Web Developer
 - 👯 I’m looking to collaborate on React projects
 - 📫 How to reach me: brunogokmen@gmail.com
-- ⚡ Fun fact: Pandemic changed my life drastically
+
 
 
 
