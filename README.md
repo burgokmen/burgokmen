@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on React projects
 - 📫 How to reach me: brunogokmen@gmail.com
 
-
+[![BG's GitHub stats](https://github-readme-stats.vercel.app/api?username=burgokmen)](https://github.com/burgokmen/github-readme-stats)
 
 
   
