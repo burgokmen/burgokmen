@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Java 
-- ⚡⚡ I've extensive knowledge of JS, HTML, CSS and REACT
-- 🔭 I'm on my way to become a Full Stack Web Developer
-- 👯 I’m looking to collaborate on React projects
+- 🌱 I’m currently working on a CoffeShop membership sideproject
+- ⚡ I've extensive knowledge of JAVA, Vanilla JS, HTML, CSS and REACT
+- 🔭 I'm a Full Stack Web Developer
+- 👯 I’m looking to collaborate on React projects || Java projects
 - 📫 How to reach me: brunogokmen@gmail.com
 
 [![BG's GitHub stats](https://github-readme-stats.vercel.app/api?username=burgokmen)](https://github.com/burgokmen/github-readme-stats)
