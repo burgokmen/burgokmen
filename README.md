@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently working on a CoffeShop membership sideproject
+- 🌱 I’m currently working on a Third Wave Coffee Shps Membership Project
 - ⚡ I've extensive knowledge of JAVA, Vanilla JS, HTML, CSS and REACT
 - 🔭 I'm a Full Stack Web Developer
 - 👯 I’m looking to collaborate on React projects || Java projects
