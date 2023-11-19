@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently working on a Third Wave Coffee Shops Membership Project
-- ⚡ I've extensive knowledge of JAVA, Vanilla JS, HTML, CSS and REACT
-- 🔭 I'm a Full Stack Web Developer
+- ⚡ I've extensive knowledge of Java, Sql, MongoDb, Vanilla Js, Html, Css and React Js
+- 🔭 I'm a Full-Stack Web Developer
 - 👯 I’m looking to collaborate on React projects || Java projects
 - 📫 How to reach me: brunogokmen@gmail.com
 
