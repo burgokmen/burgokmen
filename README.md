@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burgokmen&langs_count=2&layout=donut-vertical)
 
-![image title](https://rushter.com/counter.svg)
+![](https://komarev.com/ghpvc/?username=burgokmen)
 
   
