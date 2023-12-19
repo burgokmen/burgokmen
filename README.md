@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently working on a Groceries Delivery app
+- 🌱 I’m currently learning Rust
 - ⚡ I've extensive knowledge of Java, Sql, MongoDb, Vanilla Js, TypeScript, Html, Css and React
 - 🔭 I'm a Full-Stack Web Developer
 - 👯 I’m looking to collaborate on React projects || Java projects
