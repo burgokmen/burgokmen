@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning C# and .Net Core
 - ⚡ I've extensive knowledge of Java, Sql, MongoDb, Vanilla Js, TypeScript, Html, Css and React
 - 🔭 I'm a Full-Stack Web Developer
 - 👯 I’m looking to collaborate on React projects || Java projects
